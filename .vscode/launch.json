@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "color",
+            "cwd": "color",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "color (profile mode)",
+            "cwd": "color",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "color (release mode)",
+            "cwd": "color",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "puspa",
+            "cwd": "puspa",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "puspa (profile mode)",
+            "cwd": "puspa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "puspa (release mode)",
+            "cwd": "puspa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
